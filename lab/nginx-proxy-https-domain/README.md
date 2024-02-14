@@ -37,10 +37,10 @@
     3.3 在名稱伺服器，我們要從 godaddy 提供的，換成 [linode提供的](https://www.linode.com/docs/products/networking/dns-manager/guides/authoritative-name-servers/)
     ```
     ns1.linode.com
-    ns1.linode.com
-    ns1.linode.com
-    ns1.linode.com
-    ns1.linode.com
+    ns2.linode.com
+    ns3.linode.com
+    ns4.linode.com
+    ns5.linode.com
     ```
     3.4 點右邊中間[變更名稱伺服器], 開始做變更, domain 遷移會顯示最慢要 48hr，但自己兩次經驗 20分鐘內通常會完成，所以後面我們接著回 linode 做設定。
 
