@@ -110,6 +110,11 @@
     # 終於有鎖頭受保護啦
     ```
 
+## 其他用到的指令
+- 看狀態 `sudo systemctl status nginx`
+- ngixn reload config `sudo nginx -s reload` 
+
+
 ## 參考:
 [Ubuntu：安裝 Nginx 做反向代理（Reverse Proxy）設定教學](https://mnya.tw/cc/word/1921.html)
 
